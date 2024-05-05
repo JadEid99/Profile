@@ -1,0 +1,7 @@
+[submodule "Profile/themes/hugo-resume"]
+	path = Profile/themes/hugo-resume
+	url = https://github.com/eddiewebb/hugo-resume.git
+[submodule "Profile/public"]
+	path = Profile/public
+	url = https://github.com/JadEid99/JadEid99.github.io.git
+	branch = main
