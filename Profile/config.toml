@@ -1,5 +1,5 @@
 relativeURLs = true
-title = "Eddie Webb"
+title = "Jad Eid"
 baseURL = "https://JadEid99.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -9,13 +9,14 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
-email = "email@domain.com"
+address = "München, De"
+email = "jad.n.eid@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
-phone = "1-555-555-1234"
-profileImage = "img/TechChat.png"
+firstName = "Jad"
+lastName = "Eid"
+phone = "+49 1525 920 5642"
+profileImage = "img/profilepicture.png"
+# showCertifications = true
 showQr = true
 showContact = true
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
