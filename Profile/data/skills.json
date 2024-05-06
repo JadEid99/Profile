@@ -1,31 +1,59 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-      "grouping":"Data Management",
+      "grouping":"Software Development, Operating Systems & Tools",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"Python","icon":"devicon-python-plain"},
+        {"name":"Linux","icon":"devicon-Linux-plain"},
+        {"name":"Git","icon":"devicon-git-plain"},
+        {"name":"Confluence","icon":"devicon-confluence-plain"},
+        {"name":"Jira","icon":"devicon-Jira-plain"},
+        {"name":"MATLAB","icon":"devicon-matlab-plain"},
+        {"name":"Simulink","icon":"devicon-matlab-plain"},
+        {"name":"LabVIEW","icon":"devicon-labview-plain"},
+        {"name":"Java","icon":"devicon-java-plain"},
+        {"name":"Javascript","icon":"devicon-javascript-plain"},
+        {"name":"HTML","icon":"devicon-html5-plain"}
+      ]
+  },
+    {
+    "grouping":"Containers & Cloud",
+      "skills":[
+        {"name":"Amazon Web Servcies","icon":"devicon-amazonwebservices-plain"},
+        {"name":"Google Cloud Platform","icon":"devicon-googlecloud-plain"},
+        {"name":"Docker","icon":"devicon-docker-plain"}
+      ]
+  },{
+      "grouping":"Robotics & Embedded Systems",
+      "skills":[ {"name":"Arduino","icon":"devicon-arduino-plain"},
+        {"name":"RaspberryPi","icon":"devicon-raspberrypi-plain"},
+        {"name":"FANUC","icon":"fas fa-robot"},
+        {"name":"Universal Robots","icon":"fas fa-gear"},
+        {"name":"ROS","icon":"devicon-ros-original"}
       ]
   },
   {
-    "grouping":"Containers & Cloud",
+      "grouping":"3D Modelling & Design",
+      "skills":[ {"name":"AutoCAD","icon":"devicon-jule-plain"},
+        {"name":"SolidWorks","icon":"fas fa-cube"},
+        {"name":"Adobe Illustrator","icon":"devicon-illustrator-plain"}
+      ]
+  },
+  {
+      "grouping":"Languages",
       "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"},
-          {"name":"AWS","link":"https://aws.amazon.com"}
+        {"name":"English - Native","icon":"fas fa-language"}
+      ]
+  },  {
+      "skills":[
+        {"name":"Arabic - Native", "icon":"fas fa-language"}
+      ]
+  },{
+      "skills":[
+        {"name":"German - Professional","icon":"fas fa-language"}
+      ]
+  },{
+      "skills":[
+        {"name":"French - Basic","icon":"fas fa-language"}
       ]
   }
 ]

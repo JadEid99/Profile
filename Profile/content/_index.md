@@ -9,4 +9,5 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+#### I'm a Munich based Software Engineer passionate about solving 
+#### complex problems with **Engineering ⚙️ Software 💻 & Robots 🤖** 	
