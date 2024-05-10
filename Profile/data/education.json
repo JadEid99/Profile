@@ -1,15 +1,16 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"Master of Science",
+        "degree":"Software & AI Engineering",
+        "major":"Lebanese American University",
+        "notes":"Full-Ride Scholarship [GPA: 3.73/4.00]",
+        "range":"2020 - 2022"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Bachelor of Engineering",
+        "degree":"Software & Robotics Engineering",
+        "notes": "Graduation with Distinction [GPA: 3.72/4.00]",
+        "major":"Lebanese American University",
+        "range":"2016 - 2020"
     }
 ]

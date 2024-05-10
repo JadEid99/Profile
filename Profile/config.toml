@@ -21,7 +21,7 @@ showSocializations = true
 showQr = true
 qrcode = "img/contactcode.png"
 showContact = true
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","contributions","education","blog", "Contact"]
 
 
 #[params.google]
