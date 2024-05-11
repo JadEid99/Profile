@@ -1,6 +1,6 @@
 relativeURLs = true
 title = "Jad Eid"
-baseURL = "https://JadEid99.github.io/"
+baseURL = "https://jad-eid.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
