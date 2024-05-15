@@ -9,11 +9,11 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "München, De"
+address = "Jad Eid"
 email = "jad.n.eid@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Hi!"
-lastName = "I'm Jad Eid."
+firstName = "SOFTWARE ENGINEER"
+lastName = ""
 phone = "+49 1525 920 5642"
 profileImage = "img/profilepicture.png"
 showCertifications = true
