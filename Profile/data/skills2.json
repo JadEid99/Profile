@@ -1,0 +1,21 @@
+[
+    {
+      "grouping":"Cloud & DevOps",
+      "skills":[
+        {"name":"Cloud & DevOps","image":"img/CloudTech.jpeg", "Description": "I am a certified professional Google Cloud Architect with experience working in cloud platforms including Google Cloud Platform, Amazon Web Services and Open Telekom Cloud. I've also contributed to DevOps practices with tools including Docker, Balena OS, CI/CD pipelines, Terraform and Ansible."}
+      ]
+  },
+
+  {
+      "grouping":"Languages",
+      "skills":[
+        {"name":"Languages","image":"img/Languages.png", "Description": "Feel free to reach out in any of the following languages: {English: Native, Arabic: Native, German: Professional, French: Basic}."}
+      ]
+  },
+  {
+      "grouping":"Computer Aided Design & Simulation",
+      "skills":[
+        {"name":"Computer Aided Design & Simulation","image":"img/CAD.jpg", "Description": "I have designed models and simulations with SolidWorks, AutoCAD, Blender, Adobe Illustrator, ANSYS, and COMSOL."}
+      ]
+  }
+  ]

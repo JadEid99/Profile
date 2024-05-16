@@ -1,0 +1,21 @@
+[
+  {
+      "grouping":"Software Development",
+      "skills":[
+        {"name":"Software Development","image":"img/Development.jpeg", "Description": "I have extensive experience programming in a wide variety of languages including [Python, Java, Javascript, HTML, Bash, C++, MATLAB, Simulink, LabVIEW] and I'm familiar with a wide variety of libraries including [SciPy, Pandas, NumPy, Matplotlib, Scikit-Learn, Selenium, PyTest, OpenCV, TensorFlow, PyTorch]."}
+      ]
+  },
+
+  {
+      "grouping":"Robotics",
+      "skills":[
+        {"name":"Robotics & Microcontrollers","image":"img/Robots.jpeg", "Description": "I designed large-scale industrial automation solutions with FANUC and Universal Robots while programming with Robotics Operating System (ROS), Karel, and TP. I've also built proof of concept's and contributed to projects with Arduino and Raspberry Pi."}
+      ]
+  },
+  {
+      "grouping":"Collaborative Tools",
+      "skills":[
+        {"name":"Collaborative Tools","image":"img/Tools.jpeg", "Description": "The large majority of my work has been in Agile environments operating under Scrum or Lean management principles while contributing and versioning with Git. I'm a certified Professional Scrum Master adept at using management tools including Jira and Confluence."}
+      ]
+  }
+  ]
